@@ -1,0 +1,7 @@
+release-assets/
+*.zip
+*.exe
+*.7z
+*.log
+settings.ini
+.env
